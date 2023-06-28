@@ -4,6 +4,8 @@ A CNN model to detect if someone is wearing a mask or not
 Loss and Accuracy value:
 
 ![image](https://github.com/TayyibI/Mask-Detection-model/assets/94107654/d89260a2-65be-4e53-b542-98012a0d4aae)
+![image](https://github.com/TayyibI/Mask-Detection-model/assets/94107654/65a86f96-a516-4f72-90f8-d95df8daa4e2)
+
 
 Confusion matrix:
 
