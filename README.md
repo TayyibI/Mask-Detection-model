@@ -1,6 +1,8 @@
 # Mask-Detection-model
 A CNN model to detect if someone is wearing a mask or not
+
 Dataset used:
+
 Face Mask Detection Dataset by Omkar Gurav
 https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
